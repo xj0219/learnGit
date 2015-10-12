@@ -6,3 +6,4 @@ Git add file.
 添加一个分支dev
 添加分支dev1
 master添加冲突测试
+添加新分支feature1
