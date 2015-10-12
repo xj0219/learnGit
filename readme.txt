@@ -8,3 +8,4 @@ Git add file.
 master添加冲突测试
 添加新分支feature1
 添加新分支dev2
+修改bug
