@@ -8,4 +8,8 @@ Git add file.
 master添加冲突测试
 添加新分支feature1
 添加新分支dev2
+<<<<<<< Updated upstream
 修改bug
+=======
+添加新工作，添加新工作，添加新工作
+>>>>>>> Stashed changes
