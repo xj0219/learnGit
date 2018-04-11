@@ -6,3 +6,5 @@ Git add file.
 git commit -m 'comment'
 git status
 git push
+
+修改冲突
