@@ -6,3 +6,10 @@ Git add file.
 git commit -m 'comment'
 git status
 git push
+
+# 查看git分支
+git branch
+# 创建git分支
+git branch v20180114_xj
+# 切换分支
+git checkout v20180114_xj
